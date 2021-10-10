@@ -1,0 +1,19 @@
+<tweet>
+    <usuario>
+        <nombre>Movistar Team</nombre>
+        <nombre_usuario>@Movistar_Team</nombre_usuario>
+        <followers>
+            <follower>@lavuelta</follower>
+            <follower>@UCI_cycling</follower>
+            <follower>@ESPNciclismo</follower>
+        </followers>
+    </usuario>
+    <contenido>Bien luchado,Bala Clapping hands signClapping hands sign RocketBlue heart 'E non è finita...' Soon with rightwards arrow above #CoppaAgostoni(lunes 11) #VamosBala|#iLombardia | @alejanvalverde</contenido>
+    <retweets>69</retweets>
+    <me_gusta>1015</me_gusta>
+    <comentarios>
+            <comentario>Que grande eres. Cuanto te vamos a echar de menos.</comentario>
+            <comentario>Bala hace quedar en ridículo a todos sus compañeros de equipo cada vez que corre.</comentario>
+            <comentario>¡Si es que al final va a ser verdad que es eterno y todo!</comentario>
+    </comentarios>
+</tweet>
